@@ -14,7 +14,8 @@ main {
 
 .title {
   font-size: 64px;
-  color: #48a300;
+  /* color: #48a300; */
+  color: red;
   text-align: center;
 }
 
